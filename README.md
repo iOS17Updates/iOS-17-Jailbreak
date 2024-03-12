@@ -78,7 +78,13 @@ Cydia, once the premier app manager for earlier iOS versions, was synonymous wit
 
 Cydia Plus emerges as the modern alternative, tailored for the latest iOS versions from 17 to 17.4. This revamped app manager allows users to add repositories and install a vast array of Jailbreak and third-party apps. For those seeking the classic Cydia experience on the newest iOS versions, Cydia Plus is the only way to experience Cydia with the latest iOS 17 to iOS 17.4.
 
-[📥 Install Cydia Plus](https://iospack.com/store/#cydia)
+<div align="center">
+  
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Cydia%20for%20iOS%2017%20-%20iOS%2017.4.png" alt="Cydia for iOS 17 - iOS 17.4" height="220" width="335">
+
+📥 [Install Cydia Plus](https://iospack.com/store/#cydia)
+
+</div>
 
 ### 02. Sileo for iOS 17 - iOS 17.4
 For iPad users running iPadOS 17, the Palera1n jailbreak introduces the ability to install Sileo, a renowned package manager. This jailbreak method is versatile, supporting all iPad models equipped with A19 to A11 chips.
