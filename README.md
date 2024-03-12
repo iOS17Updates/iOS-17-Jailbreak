@@ -108,7 +108,7 @@ Palera1n, built on the Checkm8 exploit, is a jailbreak tool designed for iOS 17,
 
 ## Best iOS 17 - iOS 17.4 Customization Tools
 
-Customizing your device with iOS 17 to 17.4 can significantly enhance your user experience. Here are some of the best customization tools available for iOS 17 to 17.4.
+Customizing your device with iOS 17 to iOS 17.4 can significantly enhance your user experience. Here are some of the best customization tools available for iOS 17 to iOS 17.4.
 
 ## Aesthetic iPhone Themes Icons Install Methods for iOS 17 - iOS 17.4
 
