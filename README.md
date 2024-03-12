@@ -106,7 +106,15 @@ Sileo Plus, a prominent version of the package manager, is now available for the
 ### 01. Dopamine Jailbreak for iOS 17 Jailbreak 
 Dopamine virtual jailbreak is a highly popular method for jailbreaking iOS 17 to iOS 17.4 devices. Developed by an experienced team within the jailbreak community, Dopamine is specifically tailored for iOS 17 and newer versions. It serves as an excellent alternative to Dopamine jailbreak for arm64 (A9 - A11) and arm64e (A12 - A16, M1 - M2) devices, which are limited to iOS versions 15.0 to 16.6.1.
 
-[📥 Install Dopamine Virtual Jailbreak](https://iospack.com/#Dopamine)
+<div align="center">
+  
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Dopamine%20Jailbreak%20for%20iOS%2017%20Jailbreak.png" alt="Sileo for iOS 17 - iOS 17.4" height="220" width="335">
+
+📥 [Install Dopamine Virtual Jailbreak](https://iospack.com/#Dopamine)
+
+
+</div>
+
 
 ### 02. Unc0ver Jailbreak for iOS 17 Jailbreak 
 The Unc0ver Jailbreak, including its Black Edition, offers a straightforward jailbreaking solution for iOS 17 to 17.4 devices. The Black Edition introduces a modern web-based method, simplifying the installation of a Cydia alternative. This edition surpasses the previous semi-untethered Unc0ver jailbreak, which had limitations up to iOS versions 14.8. With this advancement, Unc0ver Jailbreak becomes a versatile option for users aiming to jailbreak their devices running newer iOS versions.
