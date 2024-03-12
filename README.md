@@ -89,3 +89,19 @@ The Unc0ver Jailbreak, including its Black Edition, offers a straightforward jai
 The Xina Jailbreak tool offers a virtual jailbreaking experience for all iPhone devices running iOS 17 to 17.4. While it's not the official Xina jailbreak, it provides a comprehensive simulation of the process. After completing the virtual jailbreak, Sileo Plus becomes the primary package manager for iOS 17 - 17.4. This virtual tool serves as a top alternative to the semi-untethered Xina jailbreak, originally designed for A12 to A15 devices and supporting iOS versions from 15.0 to 15.1.1. The virtual Xina Jailbreak extends this support to the latest iOS versions, making it a valuable tool for users seeking jailbreaking options.
 
 [📥 Install Xina Virtual Jailbreak](https://iospack.com/store/#xinajb)
+
+---
+
+## Checkm8-based Jailbreak for iOS 17 - iOS 17.4 Jailbreak
+
+### 01. Palera1n Jailbreak for iOS 17 - iOS 17.4 Jailbreak
+
+Palera1n Jailbreak enables the successful jailbreaking of iOS 17 – iOS 17.3 devices.
+
+Palera1n-C is a reimplementation of the original Palera1n Jailbreak, written in C language, and is compatible with iOS 15 – iOS 17. It enhances the jailbreaking process by introducing various new features. It's crucial to understand that Palera1n-C is specifically tailored for A8 to A11 devices with arm64 architecture running iOS/iPadOS.
+
+Palera1n, built on the Checkm8 exploit, is a jailbreak tool designed for iOS 17, including iPadOS 17, with support for tweaks. Although Palera1n supports devices ranging from iPhone 5 to iPhone X, none of these devices can upgrade to iOS 17. Therefore, Palera1n is limited to jailbreaking specific iPad models, such as iPad Pro 10.5”, iPad Pro 12.9” 2nd gen, iPad 6th gen, or iPad 7th gen.
+
+📥 [Install Palera1n Jailbreak iOS 17.4 - iOS 15](https://iexmo.com/updates/palera1n-ios-17-jailbreak/)
+
+
