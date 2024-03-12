@@ -51,7 +51,7 @@ JBRunner Tool is an advanced online semi-jailbreak utility compatible with iOS v
 
 <div align="center">
   
-<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/JBRunner%20Tool%20for%20iOS%2017%20Jailbreak.png" alt="JBRunner Tool for iOS 17 Jailbreak" height="220" width="335">
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/JBRunner%20Jailbreak%20tool%20for%20iOS%2017%20Jailbreak.png" alt="JBRunner Tool for iOS 17 Jailbreak" height="220" width="335">
 
 📥 [Install JBRunne Jailbreak](https://iospack.com/#JBRunner)
 
