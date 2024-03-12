@@ -131,7 +131,14 @@ The Unc0ver Jailbreak, including its Black Edition, offers a straightforward jai
 ### 03. Xina Jailbreak for iOS 17 Jailbreak 
 The Xina Jailbreak tool offers a virtual jailbreaking experience for all iPhone devices running iOS 17 to 17.4. While it's not the official Xina jailbreak, it provides a comprehensive simulation of the process. After completing the virtual jailbreak, Sileo Plus becomes the primary package manager for iOS 17 - 17.4. This virtual tool serves as a top alternative to the semi-untethered Xina jailbreak, originally designed for A12 to A15 devices and supporting iOS versions from 15.0 to 15.1.1. The virtual Xina Jailbreak extends this support to the latest iOS versions, making it a valuable tool for users seeking jailbreaking options.
 
-[📥 Install Xina Virtual Jailbreak](https://iospack.com/store/#xinajb)
+<div align="center">
+  
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Xina%20Jailbreak%20for%20iOS%2017%20Jailbreak.png" alt="Xina Jailbreak for iOS 17 Jailbreak" height="220" width="335">
+
+📥 [Install Xina Virtual Jailbreak](https://iospack.com/store/#xinajb)
+
+
+</div>
 
 ---
 
