@@ -91,7 +91,13 @@ For iPad users running iPadOS 17, the Palera1n jailbreak introduces the ability 
 
 Sileo Plus, a prominent version of the package manager, is now available for the latest iOS 17 to 17.4 jailbreaks. It enables the installation of third-party apps, including tweaks and themes, enhancing your device's functionality and personalization.
 
-[📥 Install Sileo Plus](https://iospack.com/store/#sileo)
+<div align="center">
+  
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Sileo%20for%20iOS%2017%20-%20iOS%2017.4.png" alt="Sileo for iOS 17 - iOS 17.4" height="220" width="335">
+
+📥 [Install Sileo Plus](https://iospack.com/store/#sileo)
+
+</div>
 
 ---
 
