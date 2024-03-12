@@ -1,6 +1,6 @@
 # iOS 17 - iOS 17.4 Jailbreak Solutions [2024] - Full Guide
 
-Jailbreaking for iOS 17 to 17.4 has now been successfully achieved, supporting iOS 17, 17.2, and 17.3, based on the checkm8 exploit. The latest jailbreak solutions offer customization support for iOS 17 through 17.4.
+Jailbreaking for iOS 17 to iOS 17.4 has now been successfully achieved, supporting iOS 17, 17.2, and 17.3, based on the checkm8 exploit. The latest jailbreak solutions offer customization support for iOS 17 through 17.4.
 
 How do you jailbreak iOS 17 with or without a computer? You can easily jailbreak the latest iOS 17 as long as you use the appropriate tools.
 
