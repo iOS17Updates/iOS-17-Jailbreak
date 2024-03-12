@@ -1,6 +1,6 @@
 <div align="center">
   
-  # # iOS 17 - iOS 17.4 Jailbreak Solutions [2024] - Full Guide
+  # iOS 17 - iOS 17.4 Jailbreak Solutions [2024] - Full Guide
   
 </div>
 
