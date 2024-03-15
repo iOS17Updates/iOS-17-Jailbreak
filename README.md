@@ -42,7 +42,7 @@ Bootstra AI Jailbreak is the first AI-powered tool designed for jailbreaking iOS
 
 <div align="center">
   
-![Bootstra AI Jailbreak for iOS 17 Jailbreak ](https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Download%20Bootstra%20AI%20Jailbreak%20for%20iOS%2017%20-%20iOS%2014%20%5BAI%20Jailbreak%20Prompts%5D.png)
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Download%20Bootstra%20AI%20Jailbreak%20for%20iOS%2017%20-%20iOS%2014%20%5BAI%20Jailbreak%20Prompts%5D.png" alt="Bootstra AI Jailbreak for iOS 17 Jailbreak" height="220" width="335">
 
 📥 [Install Bootstra AI Jailbreak](https://iospack.com/apps/bootstra-ai/)
 
@@ -67,7 +67,7 @@ Customize your iOS 17 device with Jailbreak Repo Extractors, which are compatibl
 
 <div align="center">
   
-![Jailbreak Repo Extractor based iOS 17 - iOS 17.4 Jailbreak Solutions](https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Jailbreak%20Repo%20Extractor%20for%20iOS%2017%20-%20iOS%2017.4%20Jailbreak%20Solutions.png)
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Jailbreak%20Repo%20Extractor%20for%20iOS%2017%20-%20iOS%2017.4%20Jailbreak%20Solutions.png" alt="Jailbreak Repo Extractor based iOS 17 - iOS 17.4 Jailbreak Solutions" height="220" width="335">
 
 📥 [Install Repo Extractor](https://iospack.com/)
 
