@@ -194,57 +194,57 @@ Anemone Plus is a theming engine designed to create and provide non-jailbreak th
 
 ## FAQs about iOS 17 - iOS 17.4 Jailbreak
 
-- **What is jailbreaking?**
-  - In simple terms, jailbreaking involves removing software restrictions on iOS devices, allowing users to make modifications beyond what is typically allowed.
+1. **What is jailbreaking?**
+   - In simple terms, jailbreaking involves removing software restrictions on iOS devices, allowing users to make modifications beyond what is typically allowed.
 
-- **Is jailbreaking legal?**
-  - Yes, jailbreaking is legal in many countries, including the United States.
+2. **Is jailbreaking legal?**
+   - Yes, jailbreaking is legal in many countries, including the United States.
 
-- **Why do people jailbreak their iOS devices?**
-  - People jailbreak their devices to customize the user interface, install unapproved apps, access system files, and bypass Apple-imposed restrictions, such as carrier limitations.
+3. **Why do people jailbreak their iOS devices?**
+   - People jailbreak their devices to customize the user interface, install unapproved apps, access system files, and bypass Apple-imposed restrictions, such as carrier limitations.
 
-- **Can I still access the Apple App Store after jailbreaking?**
-  - Yes, you can still access the App Store after jailbreaking, although some apps may not function properly on jailbroken devices.
+4. **Can I still access the Apple App Store after jailbreaking?**
+   - Yes, you can still access the App Store after jailbreaking, although some apps may not function properly on jailbroken devices.
 
-- **Is it possible to restore a jailbroken device to its original status?**
-  - Yes, you can revert your device to its original status through a factory reset or by restoring it through iTunes. However, this process will erase your previous data.
+5. **Is it possible to restore a jailbroken device to its original status?**
+   - Yes, you can revert your device to its original status through a factory reset or by restoring it through iTunes. However, this process will erase your previous data.
 
-- **Is it worth jailbreaking my device?**
-  - The value of jailbreaking depends on your individual needs and preferences. While it offers more customization options, there are also drawbacks and risks to consider.
+6. **Is it worth jailbreaking my device?**
+   - The value of jailbreaking depends on your individual needs and preferences. While it offers more customization options, there are also drawbacks and risks to consider.
 
-- **What is a Virtual Jailbreak?**
-  - A virtual jailbreak is an alternative approach to traditional jailbreaking. Unlike regular jailbreak tools that directly modify your device’s operating system, virtual jailbreaks simulate the jailbreaking experience without actually altering your iOS version or device.
+7. **What is a Virtual Jailbreak?**
+   - A virtual jailbreak is an alternative approach to traditional jailbreaking. Unlike regular jailbreak tools that directly modify your device’s operating system, virtual jailbreaks simulate the jailbreaking experience without actually altering your iOS version or device.
 
-- **Why use Virtual Jailbreaks?**
-  - **Compatibility:** Sometimes, official jailbreak tools may not support your specific iOS version or device model. Virtual jailbreaks step in to fill this gap.
-  - **Risk-Free Exploration:** If you’re curious about jailbreaking but hesitant to fully commit, virtual jailbreaks allow you to explore the possibilities without any permanent changes.
-  - **Testing Ground:** Developers often use virtual jailbreaks to test their tweaks and apps before releasing them to the wider jailbreak community.
+8. **Why Use Virtual Jailbreaks?**
+   - **Compatibility:** Sometimes, official jailbreak tools may not support your specific iOS version or device model. Virtual jailbreaks step in to fill this gap.
+   - **Risk-Free Exploration:** If you’re curious about jailbreaking but hesitant to fully commit, virtual jailbreaks allow you to explore the possibilities without any permanent changes.
+   - **Testing Ground:** Developers often use virtual jailbreaks to test their tweaks and apps before releasing them to the wider jailbreak community.
 
-- **What you can do with Virtual Jailbreaks:**
-  - **Customization:** Personalize your iPhone or iPad with themes, icons, and other visual tweaks.
-  - **Simulated Tweaks:** Experience how certain jailbreak tweaks would work without affecting your actual device.
-  - **Learning:** Understand the jailbreaking process and learn about tweaks without taking any risks.
+9. **What You Can Do with Virtual Jailbreaks:**
+   - **Customization:** Personalize your iPhone or iPad with themes, icons, and other visual tweaks.
+   - **Simulated Tweaks:** Experience how certain jailbreak tweaks would work without affecting your actual device.
+   - **Learning:** Understand the jailbreaking process and learn about tweaks without taking any risks.
 
-- **Is Virtual Jailbreak a fake Jailbreak?**
-  - No, virtual jailbreaks are not fake. They provide a simulated jailbreaking experience without permanently modifying your device, allowing for risk-free exploration and experimentation.
+10. **Is Virtual Jailbreak a fake Jailbreak?**
+    - No, virtual jailbreaks are not fake. They provide a simulated jailbreaking experience without permanently modifying your device, allowing for risk-free exploration and experimentation.
 
-- **What is Cydia Plus for iOS 17?**
-  - Cydia Plus is an alternative package manager for iOS 15 and higher, allowing users to find and install packages, including apps, tweaks, themes, and utilities, not available on the official App Store.
+11. **What is Cydia Plus for iOS 17?**
+    - Cydia Plus is an alternative package manager for iOS 15 and higher, allowing users to find and install packages, including apps, tweaks, themes, and utilities, not available on the official App Store.
 
-- **Is Cydia Plus iOS 17.4 jailbreak tool?**
-  - No, Cydia Plus is not a jailbreak tool, but it is a compatible alternative solution for iOS 17.4.
+12. **Is Cydia Plus iOS 17.4 jailbreak tool?**
+    - No, Cydia Plus is not a jailbreak tool, but it is a compatible alternative solution for iOS 17.4.
 
-- **Is Cydia Plus legal?**
-  - Yes, Cydia Plus itself is legal, and it can be installed on your device without voiding warranties or asking for system root access.
+13. **Is Cydia Plus legal?**
+    - Yes, Cydia Plus itself is legal, and it can be installed on your device without voiding warranties or asking for system root access.
 
-- **Is Cydia Plus compatible with my device?**
-  - Cydia Plus is designed for all device models, including iPhone X to iPhone 14 Pro Max.
+14. **Is Cydia Plus compatible with my device?**
+    - Cydia Plus is designed for all device models, including iPhone X to iPhone 14 Pro Max.
 
-- **Can I remove Cydia Plus from my device?**
-  - Yes, Cydia Plus can be installed and uninstalled like a normal app, allowing you to remove it anytime.
+15. **Can I remove Cydia Plus from my device?**
+    - Yes, Cydia Plus can be installed and uninstalled like a normal app, allowing you to remove it anytime.
 
-- **Is Cydia Plus safe to use?**
-  - Yes, Cydia Plus is considered safe to use.
+16. **Is Cydia Plus safe to use?**
+    - Yes, Cydia Plus is considered safe to use.
 
-- **What are the iOS 17 - iOS 17.4 jailbreak with computer solutions?**
-  - Currently, there are no full jailbreak tools available for the latest iOS versions, but you can utilize online jailbreak tools for iOS 17 - iOS 17.4 mentioned above.
+17. **What are the iOS 17 - iOS 17.4 jailbreak with computer solutions?**
+    - Currently, there are no full jailbreak tools available for the latest iOS versions, but you can utilize online jailbreak tools for iOS 17 - iOS 17.4 mentioned above.
