@@ -156,7 +156,13 @@ Palera1n-C is a reimplementation of the original Palera1n Jailbreak, written in 
 
 Palera1n, built on the Checkm8 exploit, is a jailbreak tool designed for iOS 17, including iPadOS 17, with support for tweaks. Although Palera1n supports devices ranging from iPhone 5 to iPhone X, none of these devices can upgrade to iOS 17. Therefore, Palera1n is limited to jailbreaking specific iPad models, such as iPad Pro 10.5”, iPad Pro 12.9” 2nd gen, iPad 6th gen, or iPad 7th gen.
 
+<div align="center">
+  
+<img src="https://github.com/iOS17Updates/iOS-17-Jailbreak/blob/main/Assets/Palera1n%20Jailbreak%20for%20iOS%2017%20-%20iOS%2017.4%20Jailbreak.png" alt="Palera1n Jailbreak for iOS 17 - iOS 17.4 Jailbreak" height="220" width="335">
+
 📥 [Install Palera1n Jailbreak iOS 17.4 - iOS 15](https://iexmo.com/updates/palera1n-ios-17-jailbreak/)
+
+</div>
 
 ---
 
