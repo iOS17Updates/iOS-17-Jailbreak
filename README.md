@@ -1,14 +1,14 @@
 # iOS 17 - iOS 17.4 Jailbreak Solutions [2024] - Full Guide
 
-Jailbreaking for iOS 17 to iOS 17.4 has now been successfully achieved, supporting iOS 17, 17.2, and 17.3, based on the checkm8 exploit. The latest jailbreak solutions offer customization support for iOS 17 through 17.4.
+Jailbreaking for iOS 17 to iOS 17.4 and iOS 17.4.1 has now been successfully achieved, supporting versions 17, 17.2, and 17.3, based on the checkm8 exploit. The latest jailbreak solutions offer customization support for iOS 17 through iOS 17.4.1.
 
 How do you jailbreak iOS 17 with or without a computer? You can easily jailbreak the latest iOS 17 as long as you use the appropriate tools.
 
-You can jailbreak iOS 17 to 17.4 using the Palera1n jailbreak tool and Palera1n-C Jailbreak, which are compatible with iOS versions 15 through 17 for a PC-based jailbreak.
+You can jailbreak iOS 17 to iOS 17.4.1 using the Palera1n jailbreak tool and Palera1n-C Jailbreak, which are compatible with iOS versions 15 through 17 for a PC-based jailbreak.
 
-With iOS 17 Jailbreak Solutions, including the iOS jailbreak AI tool and virtual jailbreak methods, there is no need for a computer or advanced sideload methods. You can install them directly as an app to enable jailbreak features for iOS 17, 17.2, 17.3, and 17.4.
+With iOS 17 Jailbreak Solutions, including the iOS jailbreak AI tool and virtual jailbreak methods, there is no need for a computer or advanced sideload methods. You can install them directly as an app to enable jailbreak features for iOS 17, 17.2, 17.3, and iOS 17.4.1.
 
-All verified, 100% trusted jailbreak solutions for iOS 17.1, 17.2, 17.3, and 17.4 are available here.
+All verified, 100% trusted jailbreak solutions for iOS 17.1, 17.2, 17.3, and iOS 17.4.1 are available here.
 
 ---
 
@@ -25,7 +25,7 @@ All verified, 100% trusted jailbreak solutions for iOS 17.1, 17.2, 17.3, and 17.
 - iPhone SE (2nd generation or later)
 
 ### Available iOS 17 versions: 
-- iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.2.1, iOS 17.3, iOS 17.3.1, iOS 17.4
+- iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.2.1, iOS 17.3, iOS 17.3.1, iOS 17.4, iOS 17.4.1
 
 Note: iOS 17 has already been successfully jailbroken, but it’s important to note that it is currently limited to older devices that are vulnerable to the checkm8 exploit, specifically iPadOS 17 iPads.
 
