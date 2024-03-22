@@ -258,7 +258,7 @@ Esign iOS 17 Features:
 
 ---
 
-## iOS 17 – 17.4.1 Jailbreak Update
+## iOS 17 – 17.4.1 Jailbreak Update [Status Update]
 
 ## Jailbreak iOS 17.4.1 on iPhone and iPad
 
